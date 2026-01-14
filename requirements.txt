@@ -1,0 +1,13 @@
+telethon
+
+watchdog
+
+yt-dlp
+
+aiohttp
+
+aiofiles
+
+gTTS
+
+googletrans-py==4.0.0

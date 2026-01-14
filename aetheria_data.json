@@ -1,0 +1,49 @@
+{
+    "global_download_count": 0,
+    "6355497501": {
+        "status": "waiting_download_link",
+        "promo_is_forward": false,
+        "promo_text": null,
+        "promo_ref_code": null,
+        "promo_saved_msg_id": null,
+        "promo_blacklist": [],
+        "promo_cycle_delay_minutes": 60,
+        "sequential_send_delay_seconds": 0.5,
+        "phone": "+6281277041617",
+        "phone_code_hash": "d0e56494cf58d58a6f",
+        "notes": {
+            "qris": {
+                "saved_msg_id": 43904,
+                "kind": "message"
+            }
+        },
+        "clone_backup": {
+            "first_name": null,
+            "last_name": null,
+            "about": null,
+            "photo_path": null,
+            "had_photo": false,
+            "ready": false
+        }
+    },
+    "8280900247": {
+        "status": "idle",
+        "promo_is_forward": false,
+        "promo_text": null,
+        "promo_ref_code": null,
+        "promo_saved_msg_id": null,
+        "promo_blacklist": [],
+        "promo_cycle_delay_minutes": 60,
+        "sequential_send_delay_seconds": 0.5,
+        "phone": "6287733994799",
+        "phone_code_hash": "4d875708280ad7afef",
+        "clone_backup": {
+            "first_name": null,
+            "last_name": null,
+            "about": null,
+            "photo_path": null,
+            "had_photo": false,
+            "ready": false
+        }
+    }
+}
